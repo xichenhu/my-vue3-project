@@ -1,0 +1,19 @@
+{
+    "id": "fui-animation",
+    "name": "Animation 动画（fui-animation）",
+    "version": "v1.0.0",
+    "description": "Animation 动画，过渡效果。",
+    "keywords": [
+        "Animation",
+        "动画",
+        "FirstUI",
+        "Nvue",
+        "fui-animation"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

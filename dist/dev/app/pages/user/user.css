@@ -1,0 +1,19 @@
+.my-content[data-v-99b0ba47] {
+  width: 92%;
+  margin: 0.625rem auto 0;
+}
+uni-button[data-v-99b0ba47] {
+  width: 92%;
+  margin: 30px auto;
+  text-align: center;
+  height: 3.125rem;
+  line-height: 3.125rem;
+  font-size: 1rem;
+  border: 1px solid #0040b2;
+  background: #0040b2;
+  color: #ffffff;
+  border-radius: 0.3125rem;
+}
+uni-button[data-v-99b0ba47]:after {
+  display: none;
+}
